@@ -1,0 +1,11 @@
+Model Information:
+* title:	PUBG Mobile Erangle House
+* source:	https://sketchfab.com/3d-models/pubg-mobile-erangle-house-5ef3c170c3cb40e3aefa7eced318944c
+* author:	Rex (https://sketchfab.com/rex_7)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PUBG Mobile Erangle House" (https://sketchfab.com/3d-models/pubg-mobile-erangle-house-5ef3c170c3cb40e3aefa7eced318944c) by Rex (https://sketchfab.com/rex_7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
